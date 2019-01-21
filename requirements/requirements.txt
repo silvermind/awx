@@ -111,3 +111,4 @@ zope.interface==4.4.3     # via twisted
 # The following packages are considered to be unsafe in a requirements file:
 pip==9.0.1
 setuptools==36.0.1
+hvac
